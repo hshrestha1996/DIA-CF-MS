@@ -1,0 +1,2 @@
+This take protein data output of step#2 and perform:
+	scaling (0-1) where max peak is 1.
