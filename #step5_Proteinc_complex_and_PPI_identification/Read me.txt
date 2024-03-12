@@ -1,5 +1,0 @@
-The codes here take protein data output of step#3 and perform:
-	PPI & Protein complex detection using the published pipeline "PrInCE" https://doi.org/10.1186/s12859-017-1865-8
-
-
-The complex and PPI can also be run using PCprophet: https://github.com/anfoss/PCprophet
