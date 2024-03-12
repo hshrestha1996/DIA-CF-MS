@@ -1,5 +1,5 @@
 getwd()
-setwd("../Desktop/Monthly meeting/Manuscript/rebuttal/Preprocessing/")
+setwd("./")
 
 library(PrInCE)
 library(data.table)
