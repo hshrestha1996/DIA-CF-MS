@@ -1,0 +1,2 @@
+This take protein data output of step#2 and perform:
+	randomize matrix to create the decoy datset for each proteins

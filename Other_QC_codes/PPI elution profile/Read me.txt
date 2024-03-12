@@ -1,0 +1,2 @@
+This take PPI result output of step#5 and protein data output of step#3 to visualize:
+	proteinA and proteinB elution peak to check the quality of each binary PPI identified.
