@@ -1,0 +1,5 @@
+This take protein data output of step#1 and perform:
+	internal standard normalization
+	filter protein that don't pass minimum consecutive fractions
+	clean the profile with moving average
+	only keep the protein that are common between replicates
